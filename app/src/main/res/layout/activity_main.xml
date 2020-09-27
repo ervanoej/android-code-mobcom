@@ -347,8 +347,12 @@
                             android:layout_centerHorizontal="true"
                             android:layout_marginBottom="5dp"
                             android:padding="10dp"
+<<<<<<< Updated upstream
                             android:scaleType="fitCenter"
                             android:src="" />
+=======
+                            android:scaleType="fitCenter" />
+>>>>>>> Stashed changes
 
                         <TextView
                             android:id="@+id/textView6"
@@ -400,7 +404,10 @@
                             android:layout_marginBottom="5dp"
                             android:padding="10dp"
                             android:scaleType="fitCenter"
+<<<<<<< Updated upstream
                             android:src=""
+=======
+>>>>>>> Stashed changes
                             android:contentDescription="TODO" />
 
                         <TextView
@@ -442,8 +449,12 @@
                             android:layout_centerHorizontal="true"
                             android:layout_marginBottom="5dp"
                             android:padding="10dp"
+<<<<<<< Updated upstream
                             android:scaleType="fitCenter"
                             android:src="" />
+=======
+                            android:scaleType="fitCenter" />
+>>>>>>> Stashed changes
 
                         <TextView
                             android:id="@+id/textView18"
@@ -539,7 +550,11 @@
                             android:layout_marginBottom="5dp"
                             android:padding="10dp"
                             android:scaleType="fitCenter"
+<<<<<<< Updated upstream
                             android:src="" />
+=======
+                            />
+>>>>>>> Stashed changes
 
                         <TextView
                             android:id="@+id/textView21"
@@ -582,7 +597,10 @@
                             android:layout_marginBottom="5dp"
                             android:padding="10dp"
                             android:scaleType="fitCenter"
+<<<<<<< Updated upstream
                             android:src=""
+=======
+>>>>>>> Stashed changes
                             android:contentDescription="TODO" />
 
                         <TextView
@@ -627,7 +645,10 @@
                             android:layout_marginBottom="5dp"
                             android:padding="10dp"
                             android:scaleType="fitCenter"
+<<<<<<< Updated upstream
                             android:src=""
+=======
+>>>>>>> Stashed changes
                             android:contentDescription="TODO" />
 
                         <TextView
