@@ -14,7 +14,7 @@ Role | I want to be able to | So that | Priority | Sprint | Status
 --- | --- | --- | --- |--- |--- 
 Admin| Register ke aplikasi | Terdaftar dan bisa menggunakan aplikasi | 1 | 2 | In Progress | 
 Admin| Login ke aplikasi | Mengakses kembali aplikasi | 1 | 2 | In Progress | 
-Client| Register ke aplikasi | Terdaftar dan bisa menggunakan aplikasi | Must | 2 | In Progress | 
+Client| Register ke aplikasi | Terdaftar dan bisa menggunakan aplikasi | 1 | 2 | In Progress | 
 Client| Login ke aplikasi | Mengakses kembali aplikasi | 1 | 2 | In Progress | 
 Client| menambahkan detail bengkel saya | user dapat mendapatkan informasi bengkel saya | 1 | 2 | In Progress | 
 User| Register ke aplikasi | Terdaftar dan bisa menggunakan aplikasi | 1 | 2 | In Progress | 
