@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Documents-greeting.iml" filepath="$PROJECT_DIR$/.idea/modules/Documents-greeting.iml" group="greeting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lenovo26-Documents-greeting.iml" filepath="$PROJECT_DIR$/.idea/modules/Lenovo26-Documents-greeting.iml" group="greeting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="greeting/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greeting.iml" filepath="$PROJECT_DIR$/.idea/modules/greeting.iml" group="greeting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/greeting-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/greeting-app.iml" group="greeting/app" />
+    </modules>
+  </component>
+</project>
