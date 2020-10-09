@@ -7,6 +7,9 @@ Anggota Grup :
 
 Link to webservice repo : https://github.com/ervanoej/webservice-db-mobcom
 
+<b>Deskripsi</b>
+Automobole Workshop Finder adalah aplikasi pencarian bengkel terdekat sehingga dapat memudahkan pengguna untuk mendapatkan pertolongan yang tepat ketika mengalami kendala dengan kendaraannya dalam perjalanan.
+Melalui aplikasi ini pengguna dapat mendeskripsikan kerusakan apa yang dialami sehingga tenaga montir/teknisi dari bengkel dapat memiliki analisa awal dan dapat memberikan treatment yang tepat bagi kendaraan.
 
 <b>Product Backlog</b>
 
